@@ -2,3 +2,4 @@
 /Cargo.lock
 /src/utils/scanner.rs
 /src/utils/test_helper.rs
+/assets
